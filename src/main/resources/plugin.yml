@@ -1,0 +1,6 @@
+name: AutoSmelt
+version: '${project.version}'
+main: es.marcos.autosmelt.AutoSmelt
+api-version: 1.18
+authors: [ Marcos ]
+description: Minecraft plugin which avoids smelting items
